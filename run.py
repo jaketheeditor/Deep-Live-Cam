@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
+import torch
 
+#!/usr/bin/env python3
 from modules import core
 
 if __name__ == '__main__':
